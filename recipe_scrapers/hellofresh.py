@@ -1,5 +1,4 @@
 import re
-import logging
 
 from ._abstract import AbstractScraper
 from ._utils import get_minutes
