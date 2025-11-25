@@ -3,7 +3,7 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "recipe_scrapers"
+name = "recipe_scrapers_gregbiv_fork"
 description = "Python package, scraping recipes from all over the internet"
 authors = [
     {name = "Hristo Harsev", email = "r+pypi@hharsev.com"},
